@@ -9,4 +9,4 @@ You can't move the worst offender as this will mostly just overload another node
 
 Cons: 
 Need to check other contraints like memory too before you do the move suggested.
-Script is quite brittle as it uses test searches of command output rather than the API.
+Script is quite brittle as it uses text searches of command output rather than the API.
